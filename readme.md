@@ -7,9 +7,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/AlexDives/kuna-api-for-php.svg?style=flat-square)](https://github.com/AlexDives/kuna-api-for-php/stargazers)
 
 
-[![PHP Version](https://img.shields.io/badge/php-7.0%2B-blue.svg?style=flat-square)](http://www.php.net/)
-[![Guzzle Version](https://img.shields.io/badge/guzzle-6.2.0-green.svg?style=flat-square)](http://docs.guzzlephp.org/)
-[![Packagist](https://img.shields.io/badge/packagist-reilag%2Fkuna--api--php-orange.svg?style=flat-square)](https://packagist.org/packages/AlexDives/kuna-api-for-php)
+[![PHP Version](https://img.shields.io/badge/php-7.3%2B-blue.svg?style=flat-square)](http://www.php.net/)
+[![Guzzle Version](https://img.shields.io/badge/guzzle-7.0.1-green.svg?style=flat-square)](http://docs.guzzlephp.org/)
 
 ### WARNING! This is not a stable version!
 
