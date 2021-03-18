@@ -9,6 +9,7 @@
 
 [![PHP Version](https://img.shields.io/badge/php-7.3%2B-blue.svg?style=flat-square)](http://www.php.net/)
 [![Guzzle Version](https://img.shields.io/badge/guzzle-7.0.1-green.svg?style=flat-square)](http://docs.guzzlephp.org/)
+[![Packagist](https://img.shields.io/badge/packagist-alexdives%2Fkuna--api--for--php-orange.svg?style=flat-square)](https://packagist.org/packages/AlexDives/kuna-api-for-php)
 
 ### WARNING! This is not a stable version!
 
