@@ -1,0 +1,22 @@
+{
+    "name": "alexdives/kuna-api-for-php",
+    "description": "Kuna Exchange PHP API - https://kuna.io/documents/api",
+    "homepage": "https://github.com/alexdives/kuna-api-for-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A-Div studio",
+            "email": "alex.dives@ya.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kuna\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
